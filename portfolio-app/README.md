@@ -138,9 +138,11 @@ If you want, I can implement any of the above (TypeScript conversion, ESLint, CI
 
 ---
 
-**Repository**
 
-https://github.com/Ntsika-Ngilane-dev/NTSNGI620_FTO2505_Ntsika-Ngilane_SDF_Portfolio_Piece.git
+**Repository & Demo**
+
+- Source repository: [NTSNGI620_FTO2505_Ntsika-Ngilane_SDF_Portfolio_Piece](https://github.com/Ntsika-Ngilane-dev/NTSNGI620_FTO2505_Ntsika-Ngilane_SDF_Portfolio_Piece.git)
+- Demo / walkthrough video: [Loom — Portfolio walkthrough](https://www.loom.com/share/00c7475866e2468b82203817f596130b)
 
 ---
 
