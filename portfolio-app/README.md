@@ -154,9 +154,4 @@ If you want, I can implement any of the above (TypeScript conversion, ESLint, CI
 
 ---
 
-Thank you — if you'd like, I can now:
-- commit these docs and scaffold to a branch and push,
-- add ESLint/Prettier and a CI workflow, or
-- run `npm run build` and verify the production preview locally.
-
 
